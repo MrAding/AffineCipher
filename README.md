@@ -7,8 +7,7 @@ Mata Kuliah : Kriptografi
 
 # AffineCipher
 Tugas Pertemuan 7 - Affine Cipher
-
-# AffineCipher
+=================================
 AffineCipher will take inputs to be verified. On incorrect input, error message should be returned. If all inputs are accepted, encrypted message should be returned in capitals. Only letters and whitespaces are being kept, rest is discarded.
 
 # BreakAffineCipher
