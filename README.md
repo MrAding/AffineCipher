@@ -13,3 +13,4 @@ AffineCipher will take inputs to be verified. On incorrect input, error message 
 
 # BreakAffineCipher
 Will take encrypted text as input. Compares possible outcomes to a english word list to predict most likely result, using a weighting system to value longer words more. It was made with focus on efficiency and timeings.
+
